@@ -1,0 +1,1 @@
+{"model": "hy-3d-3.0", "image_base64": "@b64:front", "multi_view_images": [{"view_type": "back", "view_image_base64": "@b64:back"}, {"view_type": "left", "view_image_base64": "@b64:left"}, {"view_type": "right", "view_image_base64": "@b64:right"}], "enable_pbr": true, "generate_type": "Normal", "face_count": 250000}

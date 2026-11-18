@@ -1,0 +1,19 @@
+{
+ "request_id": "59877692-c0c8-4041-9c87-626a0b66a21d",
+ "object": "3d_job",
+ "created_at": 1795001903,
+ "completed_at": 1795001903,
+ "status": "completed",
+ "data": [
+  {
+   "type": "obj",
+   "url": "https://hunyuan-prod-1258344699.cos.ap-guangzhou.tencentcos.cn/3d/output/1324061042/6ccc77d3-9a99-4ced-8d10-218389ea383a_0.zip?<signed query removed; link expired 2026-11-19 19:38 +08:00>",
+   "preview_image_url": "https://hunyuan-prod-1258344699.cos.ap-guangzhou.tencentcos.cn/3d/output/1324061042/preview_6ccc77d3-9a99-4ced-8d10-218389ea383a_0.png?<signed query removed; link expired 2026-11-19 19:38 +08:00>"
+  },
+  {
+   "type": "glb",
+   "url": "https://hunyuan-prod-1258344699.cos.ap-guangzhou.tencentcos.cn/3d/output/1324061042/6ccc77d3-9a99-4ced-8d10-218389ea383a_0.glb?<signed query removed; link expired 2026-11-19 19:38 +08:00>",
+   "preview_image_url": "https://hunyuan-prod-1258344699.cos.ap-guangzhou.tencentcos.cn/3d/output/1324061042/preview_6ccc77d3-9a99-4ced-8d10-218389ea383a_0.png?<signed query removed; link expired 2026-11-19 19:38 +08:00>"
+  }
+ ]
+}
