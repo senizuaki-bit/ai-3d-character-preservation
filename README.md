@@ -44,8 +44,9 @@ Archived for AIP2005 Lab Assessment 1 (Digital Object Preservation), University 
 
 ## Hardware
 
-The character has 250,000 triangles and three 4096 px textures. A full 1080p Cycles render (384 samples)
-is slow and needs a capable GPU; weaker computers may lag in the rendered viewport.
+The character has 250,000 triangles and three 4096 px textures (48.7 MB). After opening, it takes about
+half a minute to appear in full detail in Blender's rendered viewport, even on an RTX 4060 laptop GPU.
+Reusing it (animation, games, other software) will be slow on ordinary computers; a lighter copy is planned.
 
 ## Fixity
 
